@@ -2,4 +2,4 @@ Learning With Git with VS Code
 This is my second  that I am trying to make
 Back after a break
 This line is from the Experiment branch
-New Change on Main for conflict resolution added this
+New Change on Main for conflict resolution added that
