@@ -1,6 +1,6 @@
 Learning With Git with VS Code
-CONFLICT_LINE=original
+CONFLICT_LINE=original NOW CONFLICT
 This is my second  that I am trying to make
 Back after a break
-This line is from the Experiment branch
+This line is from the Experiment branch 
 New Change on Main for conflict resolution added THAT
