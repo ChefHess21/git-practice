@@ -8,3 +8,4 @@ New Change on Main for conflict resolution added THAT
 This is for my Pull request to Git test
 Practicing real workflow habits - new branch from master working on commit
 Doing again
+Adding another line to Notes
